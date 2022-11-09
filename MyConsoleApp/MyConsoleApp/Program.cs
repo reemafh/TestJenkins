@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace JenkinsConsoleApp
+namespace MyConsoleApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! this is my first app on GitHub");
+            Console.WriteLine("Hello World!");
         }
     }
 }

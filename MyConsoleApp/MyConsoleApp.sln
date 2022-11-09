@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsConsoleApp", "JenkinsConsoleApp\JenkinsConsoleApp.csproj", "{F25BADCA-3CCA-49DE-9FB4-C688A3686324}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{113CDC07-5B01-4AAC-99B2-2E0C9754FD56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F25BADCA-3CCA-49DE-9FB4-C688A3686324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F25BADCA-3CCA-49DE-9FB4-C688A3686324}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F25BADCA-3CCA-49DE-9FB4-C688A3686324}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F25BADCA-3CCA-49DE-9FB4-C688A3686324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113CDC07-5B01-4AAC-99B2-2E0C9754FD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113CDC07-5B01-4AAC-99B2-2E0C9754FD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113CDC07-5B01-4AAC-99B2-2E0C9754FD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113CDC07-5B01-4AAC-99B2-2E0C9754FD56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E55C756C-68AC-4969-A789-83F0AEC55B01}
+		SolutionGuid = {68F75965-3EE6-49CA-9A34-F3AB7B19BAE2}
 	EndGlobalSection
 EndGlobal
